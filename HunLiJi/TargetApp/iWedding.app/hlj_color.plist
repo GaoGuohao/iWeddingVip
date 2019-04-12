@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>yellow1Color</key>
+	<string>FFA73C</string>
+	<key>purple1Color</key>
+	<string>D2A1F7</string>
+	<key>mainColor</key>
+	<string>F83244</string>
+	<key>accentColor</key>
+	<string>F83244</string>
+	<key>subColor</key>
+	<string>FFAF24</string>
+	<key>completeColor</key>
+	<string>46D787</string>
+	<key>linkColor</key>
+	<string>508CEE</string>
+	<key>black1Color</key>
+	<string>000000</string>
+	<key>black2Color</key>
+	<string>333333</string>
+	<key>black3Color</key>
+	<string>666666</string>
+	<key>gray1Color</key>
+	<string>999999</string>
+	<key>gray2Color</key>
+	<string>AAAAAA</string>
+	<key>gray3Color</key>
+	<string>CCCCCC</string>
+	<key>line1Color</key>
+	<string>E2E2E2</string>
+	<key>line2Color</key>
+	<string>D2D2D2</string>
+	<key>background1Color</key>
+	<string>F2F3F6</string>
+	<key>background2Color</key>
+	<string>F6F6F7</string>
+	<key>imageBackgroundColor</key>
+	<string>EEEEEE</string>
+</dict>
+</plist>

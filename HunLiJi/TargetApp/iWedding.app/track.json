@@ -1,0 +1,299 @@
+{
+    "path": {
+        "MainCategoryTVController": {
+            "MainCategoryTVController\\(0\\)MainHeaderView\\(0\\)UITableViewWrapperView\\(0\\)HLJHorizonTabTableViewCell\\(0\\)UITableViewCellContentView\\(0\\)UICollectionView\\([0-9]*\\)HLJProductCategoryCollectionViewCell": [
+                                                                                                                                                                                                                                    {
+                                                                                                                                                                                                                                    "type": "chat",
+                                                                                                                                                                                                                                    "page": "HLJUserMsgConversationViewController",
+                                                                                                                                                                                                                                    "data": [
+                                                                                                                                                                                                                                             {
+                                                                                                                                                                                                                                             "key": "data_id",
+                                                                                                                                                                                                                                             "path_key": "viewModel/toUserId"
+                                                                                                                                                                                                                                             }
+                                                                                                                                                                                                                                             ],
+                                                                                                                                                                                                                                    "tag": {
+                                                                                                                                                                                                                                    "path": "",
+                                                                                                                                                                                                                                    "path_key": "model/title"
+                                                                                                                                                                                                                                    },
+                                                                                                                                                                                                                                    "parent_tag": {
+                                                                                                                                                                                                                                    "path": "",
+                                                                                                                                                                                                                                    "path_key": "model/site"
+                                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                                    ],
+            "MainCategoryTVController\\(0\\)MainHeaderView\\(0\\)MainBannerCell\\(0\\)UITableViewCellContentView\\(0\\)HLJMainCycleScrollView\\([0-9]*\\)HLJMainCycleScrollViewCell": [
+                                                                                                                                                                                       {
+                                                                                                                                                                                       "type": "chat",
+                                                                                                                                                                                       "page": "HLJUserMsgConversationViewController",
+                                                                                                                                                                                       "data": [
+                                                                                                                                                                                                {
+                                                                                                                                                                                                "key": "data_id",
+                                                                                                                                                                                                "path_key": "viewModel/toUserId"
+                                                                                                                                                                                                }
+                                                                                                                                                                                                ],
+                                                                                                                                                                                       "tag": {
+                                                                                                                                                                                       "path": "",
+                                                                                                                                                                                       "path_key": "bannerItem/title"
+                                                                                                                                                                                       },
+                                                                                                                                                                                       "parent_tag": {
+                                                                                                                                                                                       "path": "",
+                                                                                                                                                                                       "path_key": "bannerItem/site"
+                                                                                                                                                                                       }
+                                                                                                                                                                                       }
+                                                                                                                                                                                       ],
+            "MainCategoryTVController(0)MainHeaderView(0)HLJMainHeaderSectionView(0)_UITableViewHeaderFooterContentView(0)UIControl": [
+                                                                                                                                       {
+                                                                                                                                       "type": "chat",
+                                                                                                                                       "page": "HLJUserMsgConversationViewController",
+                                                                                                                                       "tag": {
+                                                                                                                                       "path": "",
+                                                                                                                                       "value": "更多目的地"
+                                                                                                                                       }
+                                                                                                                                       }
+                                                                                                                                       ],
+            "MainCategoryTVController\\(0\\)MainHeaderView\\(0\\)UITableViewWrapperView\\(0\\)MainGlobalTravelTakePhotoCell\\(0\\)UITableViewCellContentView\\(0\\)UIView\\([0-9]*\\)UIImageView": [
+                                                                                                                                                                                                    {
+                                                                                                                                                                                                    "type": "chat",
+                                                                                                                                                                                                    "page": "HLJUserMsgConversationViewController",
+                                                                                                                                                                                                    "data": [
+                                                                                                                                                                                                             {
+                                                                                                                                                                                                             "key": "data_id",
+                                                                                                                                                                                                             "path_key": "viewModel/toUserId"
+                                                                                                                                                                                                             }
+                                                                                                                                                                                                             ],
+                                                                                                                                                                                                    "tag": {
+                                                                                                                                                                                                    "path": "MainGlobalTravelTakePhotoCell/UITableViewCellContentView/UIView",
+                                                                                                                                                                                                    "path_key": "bannerItems/{UIImageView}/title"
+                                                                                                                                                                                                    },
+                                                                                                                                                                                                    "parent_tag": {
+                                                                                                                                                                                                    "path": "MainGlobalTravelTakePhotoCell/UITableViewCellContentView/UIView",
+                                                                                                                                                                                                    "path_key": "bannerItems/{UIImageView}/site"
+                                                                                                                                                                                                    }
+                                                                                                                                                                                                    }
+                                                                                                                                                                                                    ],
+            "MainCategoryTVController\\(0\\)MainHeaderView\\(0\\)UITableViewWrapperView\\(0\\)MainGlobalTravelTakePhotoCell\\(0\\)UITableViewCellContentView\\(1\\)UIView\\([0-9]*\\)UIImageView": [
+                                                                                                                                                                                                    {
+                                                                                                                                                                                                    "type": "chat",
+                                                                                                                                                                                                    "page": "HLJUserMsgConversationViewController",
+                                                                                                                                                                                                    "data": [
+                                                                                                                                                                                                             {
+                                                                                                                                                                                                             "key": "data_id",
+                                                                                                                                                                                                             "path_key": "viewModel/toUserId"
+                                                                                                                                                                                                             }
+                                                                                                                                                                                                             ],
+                                                                                                                                                                                                    "tag": {
+                                                                                                                                                                                                    "path": "MainGlobalTravelTakePhotoCell/UITableViewCellContentView/UIView",
+                                                                                                                                                                                                    "path_key": "hotBannerItems/{UIImageView}/title"
+                                                                                                                                                                                                    },
+                                                                                                                                                                                                    "parent_tag": {
+                                                                                                                                                                                                    "path": "MainGlobalTravelTakePhotoCell/UITableViewCellContentView/UIView",
+                                                                                                                                                                                                    "path_key": "hotBannerItems/{UIImageView}/site"
+                                                                                                                                                                                                    }
+                                                                                                                                                                                                    }
+                                                                                                                                                                                                    ],
+            "MainCategoryTVController\\([0-9]*\\)UITableViewWrapperView\\([0-9]*\\)FrontPageFeedMealCell": [
+                                                                                                            {
+                                                                                                            "type": "chat",
+                                                                                                            "page": "HLJUserMsgConversationViewController",
+                                                                                                            "data": [
+                                                                                                                     {
+                                                                                                                     "key": "data_id",
+                                                                                                                     "path_key": "viewModel/toUserId"
+                                                                                                                     }
+                                                                                                                     ],
+                                                                                                            "tag": {
+                                                                                                            "value": "feeds列表"
+                                                                                                            }
+                                                                                                            }
+                                                                                                            ],
+            "MainCategoryTVController\\([0-9]*\\)UITableViewWrapperView\\([0-9]*\\)FrontPageFeedCaseCell": [
+                                                                                                            {
+                                                                                                            "type": "chat",
+                                                                                                            "page": "HLJUserMsgConversationViewController",
+                                                                                                            "data": [
+                                                                                                                     {
+                                                                                                                     "key": "data_id",
+                                                                                                                     "path_key": "viewModel/toUserId"
+                                                                                                                     }
+                                                                                                                     ],
+                                                                                                            "tag": {
+                                                                                                            "value": "feeds列表"
+                                                                                                            }
+                                                                                                            }
+                                                                                                            ],
+            "MainCategoryTVController\\([0-9]*\\)UITableViewWrapperView\\([0-9]*\\)FrontPageFeedCommunityThreadCell": [
+                                                                                                                       {
+                                                                                                                       "type": "chat",
+                                                                                                                       "page": "HLJUserMsgConversationViewController",
+                                                                                                                       "data": [
+                                                                                                                                {
+                                                                                                                                "key": "data_id",
+                                                                                                                                "path_key": "viewModel/toUserId"
+                                                                                                                                }
+                                                                                                                                ],
+                                                                                                                       "tag": {
+                                                                                                                       "value": "feeds列表"
+                                                                                                                       }
+                                                                                                                       }
+                                                                                                                       ],
+            "MainCategoryTVController\\([0-9]*\\)UITableViewWrapperView\\([0-9]*\\) FrontPageFeedPostCell": [
+                                                                                                             {
+                                                                                                             "type": "chat",
+                                                                                                             "page": "HLJUserMsgConversationViewController",
+                                                                                                             "data": [
+                                                                                                                      {
+                                                                                                                      "key": "data_id",
+                                                                                                                      "path_key": "viewModel/toUserId"
+                                                                                                                      }
+                                                                                                                      ],
+                                                                                                             "tag": {
+                                                                                                             "value": "feeds列表"
+                                                                                                             }
+                                                                                                             }
+                                                                                                             ],
+            "MainCategoryTVController\\([0-9]*\\)UITableViewWrapperView\\([0-9]*\\) FrontPageFeedPostBannerCell": [
+                                                                                                                   {
+                                                                                                                   "type": "chat",
+                                                                                                                   "page": "HLJUserMsgConversationViewController",
+                                                                                                                   "data": [
+                                                                                                                            {
+                                                                                                                            "key": "data_id",
+                                                                                                                            "path_key": "viewModel/toUserId"
+                                                                                                                            }
+                                                                                                                            ],
+                                                                                                                   "tag": {
+                                                                                                                   "value": "feeds列表"
+                                                                                                                   }
+                                                                                                                   }
+                                                                                                                   ]
+        },
+        "HLJTabBarController": {
+            "HLJTabBarController(0)UITabBar(0)UITabBarButton": [
+                                                                {
+                                                                "type": "chat",
+                                                                "page": "HLJUserMsgConversationViewController",
+                                                                "data": [
+                                                                         {
+                                                                         "key": "data_id",
+                                                                         "path_key": "viewModel/toUserId"
+                                                                         }
+                                                                         ],
+                                                                "tag": {
+                                                                "value": "首页tab"
+                                                                }
+                                                                }
+                                                                ],
+            "HLJTabBarController(0)UITabBar(1)UITabBarButton": [
+                                                                {
+                                                                "type": "chat",
+                                                                "page": "HLJUserMsgConversationViewController",
+                                                                "data": [
+                                                                         {
+                                                                         "key": "data_id",
+                                                                         "path_key": "viewModel/toUserId"
+                                                                         }
+                                                                         ],
+                                                                "tag": {
+                                                                "value": "备婚tab"
+                                                                }
+                                                                }
+                                                                ],
+            "HLJTabBarController(0)UITabBar(2)UITabBarButton": [
+                                                                {
+                                                                "type": "chat",
+                                                                "page": "HLJUserMsgConversationViewController",
+                                                                "data": [
+                                                                         {
+                                                                         "key": "data_id",
+                                                                         "path_key": "viewModel/toUserId"
+                                                                         }
+                                                                         ],
+                                                                "tag": {
+                                                                "value": "新娘说tab"
+                                                                }
+                                                                }
+                                                                ],
+            "HLJTabBarController(0)UITabBar(3)UITabBarButton": [
+                                                                {
+                                                                "type": "chat",
+                                                                "page": "HLJUserMsgConversationViewController",
+                                                                "data": [
+                                                                         {
+                                                                         "key": "data_id",
+                                                                         "path_key": "viewModel/toUserId"
+                                                                         }
+                                                                         ],
+                                                                "tag": {
+                                                                "value": "婚品tab"
+                                                                }
+                                                                }
+                                                                ],
+            "HLJTabBarController(0)UITabBar(4)UITabBarButton": [
+                                                                {
+                                                                "type": "chat",
+                                                                "page": "HLJUserMsgConversationViewController",
+                                                                "data": [
+                                                                         {
+                                                                         "key": "data_id",
+                                                                         "path_key": "viewModel/toUserId"
+                                                                         }
+                                                                         ],
+                                                                "tag": {
+                                                                "value": "我的"
+                                                                }
+                                                                }
+                                                                ]
+        },
+        "MarryRegisterViewController": {
+            "MarryRegisterViewController(0)UITableView(0)UIImageView": [
+                                                                        {
+                                                                        "type": "chat",
+                                                                        "page": "HLJUserMsgConversationViewController",
+                                                                        "data": [
+                                                                                 {
+                                                                                 "key": "data_id",
+                                                                                 "path_key": "viewModel/toUserId"
+                                                                                 }
+                                                                                 ],
+                                                                        "tag": {
+                                                                        "value": "婚姻登记处顶部poster"
+                                                                        }
+                                                                        }
+                                                                        ]
+        },
+        "UIWindow": {
+            "UIWindow(0)HLJLaunchAdImageView": [
+                                                {
+                                                "type": "chat",
+                                                "page": "HLJUserMsgConversationViewController",
+                                                "data": [
+                                                         {
+                                                         "key": "data_id",
+                                                         "path_key": "viewModel/toUserId"
+                                                         }
+                                                         ],
+                                                "tag": {
+                                                "value": "启动页"
+                                                }
+                                                }
+                                                ]
+        },
+        "UINavigationController": {
+            "UINavigationController(0)UINavigationBar(0)_UINavigationBarContentView(0)UIView(0)HLJCustomSearchBar(0)UIView(0)UISearchBarTextField": [
+                                                                                                                                                     {
+                                                                                                                                                     "type": "chat",
+                                                                                                                                                     "page": "HLJUserMsgConversationViewController",
+                                                                                                                                                     "data": [
+                                                                                                                                                              {
+                                                                                                                                                              "key": "data_id",
+                                                                                                                                                              "path_key": "viewModel/toUserId"
+                                                                                                                                                              }
+                                                                                                                                                              ],
+                                                                                                                                                     "tag": {
+                                                                                                                                                     "value": "搜索入口"
+                                                                                                                                                     }
+                                                                                                                                                     }
+                                                                                                                                                     ]
+        }
+    }
+}
